@@ -1,0 +1,4 @@
+mongodb+srv://crayter:442756CRc@magic-stream-movies.eajzyvj.mongodb.net/?appName=Magic-Stream-Movies
+
+Local connection to MovieDB
+localhost:27017
