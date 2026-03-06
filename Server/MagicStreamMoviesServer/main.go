@@ -43,7 +43,7 @@ func main() {
 			log.Printf("Setting allowed origins to %s", origins[i])
 		}
 	} else {
-		origins = []string{"http://localhost:5173"}
+		//origins = []string{"http://localhost:5173"}
 		log.Printf("Setting Hard allowed origins to %s", origins)
 	}
 
